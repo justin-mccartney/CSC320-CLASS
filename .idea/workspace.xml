@@ -1,34 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b210835-9d55-40cd-a73b-67a5deb35a05" name="Changes" comment="" />
+    <list default="true" id="9b210835-9d55-40cd-a73b-67a5deb35a05" name="Changes" comment="Critical Thinking 4 - Source Code">
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FictionalPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FictionalPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FloatStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloatStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaxWithholding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaxWithholding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TemperatureTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TemperatureTracker.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2cl63yvCrJVnHHL4yUNKB7zx7NY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FictionalPerson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloatStatistics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaxWithholding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemperatureTracker.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/justinmccartney/IdeaProjects/CSC320-CLASS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,11 +77,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708673622952</updated>
-      <workItem from="1708673624302" duration="6000" />
+      <workItem from="1708673624302" duration="1102000" />
+      <workItem from="1708928840739" duration="937000" />
+      <workItem from="1710130967530" duration="4322000" />
+      <workItem from="1710367570300" duration="893000" />
+      <workItem from="1710480389880" duration="41000" />
+      <workItem from="1711083368096" duration="5182000" />
+      <workItem from="1711166298453" duration="534000" />
+      <workItem from="1711393238451" duration="37000" />
+      <workItem from="1711953171553" duration="74000" />
+      <workItem from="1712360119133" duration="990000" />
+      <workItem from="1712528763551" duration="10304000" />
     </task>
+    <task id="LOCAL-00001" summary="Critical Thinking 2 - Source Code">
+      <option name="closed" value="true" />
+      <created>1710133048787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710133048787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Critical Thinking 3 - Source Code">
+      <option name="closed" value="true" />
+      <created>1710135372693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710135372693</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Critical Thinking 4 - Source Code">
+      <option name="closed" value="true" />
+      <created>1711089340555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711089340555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Critical Thinking 4 - Source Code">
+      <option name="closed" value="true" />
+      <created>1712360662264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712360662264</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Critical Thinking 2 - Source Code" />
+    <MESSAGE value="Critical Thinking 3 - Source Code" />
+    <MESSAGE value="Critical Thinking 4 - Source Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Critical Thinking 4 - Source Code" />
   </component>
 </project>
